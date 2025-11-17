@@ -71,3 +71,9 @@ Ce projet montre :
 ## 📌 Conclusion
 Un projet original montrant ta capacité à manipuler des données sportives, 
 à créer un modèle de simulation et à analyser un phénomène complexe à partir de données réelles.
+
+---
+
+## 📂 Notebook
+- 📓 Simulation complète : [Simulation Ligue des Champions](ligue_des_champions_simulation.ipynb)
+
