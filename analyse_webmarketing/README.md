@@ -45,3 +45,8 @@ Analyse basée sur plusieurs principes clés :
 - `/notebooks` : analyses Python
 - `/img` : graphiques (Pareto, conversions, revenus)
 - `/data` : échantillon ou source anonymisée
+
+---
+
+## 📂 Notebook
+- 📓 Notebook Python : [Analyse Webmarketing](analyse_webmarketing.ipynb)
