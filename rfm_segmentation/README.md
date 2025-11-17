@@ -46,3 +46,9 @@ L’objectif est d’identifier les segments les plus rentables et d’optimiser
 - Cross-selling ciblé pour Medium Value
 - Emailing de réactivation pour Low Value
 - Augmenter fréquence → principal levier de croissance du panier total
+
+---
+
+## 📂 Notebook
+
+- 📓 Notebook Python : [Analyse RFM – Feminiz](rfm_segmentation_feminiz.ipynb)
