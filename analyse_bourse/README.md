@@ -50,3 +50,13 @@ Ce projet simule le travail d’un analyste financier basé sur Python.
 ## 📌 Conclusion
 Ce projet démontre la capacité à produire une analyse financière complète en Python, en automatisant la collecte, le calcul d’indicateurs, et l’aide à la décision.
 
+--- 
+
+## 📂 Notebooks disponibles
+
+- 📓 Analyse d’une action seule : [Analyse action](notebooks/Analyse_Action_Unique.ipynb)
+- 📓 Comparaison de plusieurs actions : [Comparaison actions](notebooks/Comparaison_Actions.ipynb)
+- 📓 Analyse d’un ETF : [Analyse ETF](notebooks/Analyse_ETF_Unique.ipynb)
+- 📓 Comparaison de plusieurs ETF : [Comparaison ETF](notebooks/Comparaison_ETF.ipynb)
+
+
