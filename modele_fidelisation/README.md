@@ -66,3 +66,8 @@ Cette analyse combine :
 Ce projet démontre la capacité à mener une étude complète :
 statistique → modélisation → interprétation → recommandations marketing.
 
+--- 
+
+## 📂 Notebook
+- 📓 Notebook Python : [Modèle de fidélisation](modele_fidelisation.ipynb)
+
