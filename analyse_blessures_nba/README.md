@@ -54,3 +54,8 @@ Analyser plus de 10 ans de données de blessures en NBA afin de :
 ## 📌 Conclusion
 Ce projet montre comment utiliser Python et des méthodes statistiques pour analyser un dataset complexe, créer des indicateurs avancés, et produire des insights actionnables.
 
+--- 
+
+## 📂 Notebook
+- 📓 Analyse complète : [Analyse Blessures NBA](analyse_blessures_nba.ipynb)
+
