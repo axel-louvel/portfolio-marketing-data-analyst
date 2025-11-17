@@ -1,3 +1,31 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/axel-louvel/portfolio-marketing-data-analyst/main/banner.png" alt="Axel Louvel – Marketing Data Analyst" width="100%">
+</p>
+
+<h1 align="center">📊 Axel Louvel — Marketing Data Analyst</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue">
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%2C%20Numpy-green">
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib%2C%20Seaborn-yellow">
+  <img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-red">
+</p>
+
+---
+
+## 🎯 À propos de ce portfolio
+
+Bienvenue dans mon portfolio data.  
+Il regroupe mes projets en **Marketing Data Analytics**, notamment :
+
+- Segmentation RFM  
+- Analyse Webmarketing  
+- Modèle de prédiction de fidélisation  
+- Analyse sportives (NBA, LDC)  
+- Analyses financières (actions & ETF)
+
+
 # 📊 Portfolio – Marketing Data Analyst  
 Bienvenue sur mon portfolio orienté **Marketing Data**, **Python**, **Machine Learning** et **Analytics**.  
 Chaque dossier contient une analyse complète + un notebook Python exécutable.
